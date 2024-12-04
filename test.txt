@@ -1,7 +1,11 @@
 hi bro
 this is yaswanth
+<<<<<<< HEAD
 this was edit branch
 this was from the edit2
 
+=======
+this was edit1 branch
+>>>>>>> edit
 
 
